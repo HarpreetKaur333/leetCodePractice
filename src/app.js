@@ -82,19 +82,19 @@ console.log('Hello from Node.js and Chrome!');
 
 
 // Map, Filter, and Reduce
-const numbers = [1, 2, 3, 4];
+// const numbers = [1, 2, 3, 4];
 
-// map example
-const doubled = numbers.map(num => num * 2);
-console.log(doubled); // [2, 4, 6, 8]
+// // map example
+// const doubled = numbers.map(num => num * 2);
+// console.log(doubled); // [2, 4, 6, 8]
 
-// filter example
-const evens = numbers.filter(num => num % 2 === 0);
-console.log(evens); // [2, 4]
+// // filter example
+// const evens = numbers.filter(num => num % 2 === 0);
+// console.log(evens); // [2, 4]
 
-// reduce example
-const sum = numbers.reduce((acc, num) => acc + num, 0);
-console.log(sum); // 10
+// // reduce example
+// const sum = numbers.reduce((acc, num) => acc + num, 0);
+// console.log(sum); // 10
 
 
 
